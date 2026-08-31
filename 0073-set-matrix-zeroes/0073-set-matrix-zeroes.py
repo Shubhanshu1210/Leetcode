@@ -1,0 +1,28 @@
+class Solution:
+    def setZeroes(self, matrix: List[List[int]]) -> None:
+        
+        n = len(matrix)          
+        m = len(matrix[0])      
+
+        for i in range(n):
+            for j in range(m):
+
+                if matrix[i][j] == 0:
+
+                    # Mark row
+                    for k in range(m):
+                        if matrix[i][k] != 0:
+                            matrix[i][k] = -545
+
+                    # Mark column
+                    for k in range(n):
+                        if matrix[k][j] != 0:
+                            matrix[k][j] = -545
+
+        # Convert -1 to 0
+        for i in range(n):
+            for j in range(m):
+                if matrix[i][j] == -545:
+                    matrix[i][j] = 0    
+        
+        
