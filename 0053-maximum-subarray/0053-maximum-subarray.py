@@ -4,11 +4,8 @@ class Solution:
         sum = 0
         for i in range(len(nums)):
             sum += nums[i]
-
             if sum>maxs:
                 maxs=sum
-
-
             if sum<0:
                 sum=0
             
