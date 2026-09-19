@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shubhanshu1210/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhanshu1210/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Shubhanshu1210/Leetcode/tree/master/0322-coin-change) |
+| [0455-assign-cookies](https://github.com/Shubhanshu1210/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Shubhanshu1210/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Shubhanshu1210/Leetcode/tree/master/0493-reverse-pairs) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubhanshu1210/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Shubhanshu1210/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhanshu1210/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Shubhanshu1210/Leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Shubhanshu1210/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -104,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shubhanshu1210/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shubhanshu1210/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shubhanshu1210/Leetcode/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Shubhanshu1210/Leetcode/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Shubhanshu1210/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Shubhanshu1210/Leetcode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Shubhanshu1210/Leetcode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Shubhanshu1210/Leetcode/tree/master/0322-coin-change) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Shubhanshu1210/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
