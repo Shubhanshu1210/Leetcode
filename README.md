@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Shubhanshu1210/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Shubhanshu1210/Leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Shubhanshu1210/Leetcode/tree/master/0912-sort-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shubhanshu1210/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
