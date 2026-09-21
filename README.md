@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shubhanshu1210/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Shubhanshu1210/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Shubhanshu1210/Leetcode/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/Shubhanshu1210/Leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shubhanshu1210/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shubhanshu1210/Leetcode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Shubhanshu1210/Leetcode/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/Shubhanshu1210/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shubhanshu1210/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shubhanshu1210/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Shubhanshu1210/Leetcode/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/Shubhanshu1210/Leetcode/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Shubhanshu1210/Leetcode/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/Shubhanshu1210/Leetcode/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -242,4 +246,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Shubhanshu1210/Leetcode/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubhanshu1210/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubhanshu1210/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubhanshu1210/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubhanshu1210/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
