@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhanshu1210/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shubhanshu1210/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shubhanshu1210/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Shubhanshu1210/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Shubhanshu1210/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhanshu1210/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Shubhanshu1210/Leetcode/tree/master/0322-coin-change) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shubhanshu1210/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shubhanshu1210/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Shubhanshu1210/Leetcode/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/Shubhanshu1210/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Shubhanshu1210/Leetcode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shubhanshu1210/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubhanshu1210/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubhanshu1210/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Shubhanshu1210/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shubhanshu1210/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhanshu1210/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shubhanshu1210/Leetcode/tree/master/0344-reverse-string) |
