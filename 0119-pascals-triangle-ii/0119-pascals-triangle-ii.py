@@ -1,14 +1,12 @@
 class Solution:
     def getRow(self, rowIndex: int) -> list[int]:
-        row = [1]
+        ans = 1
+        ansroww = []
+        ansroww.append(ans)
 
-        for i in range(rowIndex):
-            new_row = [1]
+        for col in range(1, rowIndex + 1):
+            ans = ans * (rowIndex - col + 1)
+            ans = ans // col
+            ansroww.append(ans)
 
-            for j in range(1, len(row)):
-                new_row.append(row[j - 1] + row[j])
-
-            new_row.append(1)
-            row = new_row
-
-        return row
+        return ansroww
