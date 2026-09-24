@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shubhanshu1210/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Shubhanshu1210/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Shubhanshu1210/Leetcode/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/Shubhanshu1210/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/Shubhanshu1210/Leetcode/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shubhanshu1210/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shubhanshu1210/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubhanshu1210/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shubhanshu1210/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shubhanshu1210/Leetcode/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Shubhanshu1210/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shubhanshu1210/Leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shubhanshu1210/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Shubhanshu1210/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
